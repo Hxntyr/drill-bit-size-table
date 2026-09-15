@@ -2,10 +2,12 @@
 
 A compact reference table for metric, fractional-inch, number, and letter drill-bit sizes, ordered by nominal diameter.
 
-## Downloads
+## Download and edit
 
 * [Download the PDF chart](drill-bit-size-chart-pdf.pdf)
 * [Open the Google Sheet](https://docs.google.com/spreadsheets/d/1qfdDHztWA-5Ba4WcGwthZKbyoiVVLVKIqEtIyo48oEs/edit?usp=sharing) for additional viewing and export options, or you can copy it to your own google drive and edit as you like.
+
+## Example
 
 My personal color preference, highlighting common values and using blue for metric red for non-metric.
 
